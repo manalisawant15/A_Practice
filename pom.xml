@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ms.serviceregistory</groupId>
 	<artifactId>ServiceRegistory</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>ServiceRegistory</name>
 	<description>Rating Service</description>
 	<properties>
